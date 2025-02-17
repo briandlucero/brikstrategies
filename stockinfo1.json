@@ -1,106 +1,286 @@
-[
-    {
-        "CompanyName": "Asia Amalgamated Holdings Corporation",
-        "StockSymbol": "AAA",
-        "SecurityType": "Common Stock",
-        "Sector": "Holding Firms",
-        "Subsector": "Holding Firms",
-        "ListingDate": "1973-03-22"
-    },
-    {
-        "CompanyName": "Atok-Big Wedge Co., Inc.",
-        "StockSymbol": "AB",
-        "SecurityType": "Common Stock",
-        "Sector": "Mining and Oil",
-        "Subsector": "Mining",
-        "ListingDate": "1948-01-08"
-    },
-    {
-        "CompanyName": "AbaCore Capital Holdings, Inc.",
-        "StockSymbol": "ABA",
-        "SecurityType": "Common Stock",
-        "Sector": "Holding Firms",
-        "Subsector": "Holding Firms",
-        "ListingDate": "1987-10-28"
-    },
-    {
-        "CompanyName": "Asiabest Group International Inc.",
-        "StockSymbol": "ABG",
-        "SecurityType": "Common Stock",
-        "Sector": "Holding Firms",
-        "Subsector": "Holding Firms",
-        "ListingDate": "1979-07-10"
-    },
-    {
-        "CompanyName": "ABS-CBN Corporation",
-        "StockSymbol": "ABS",
-        "SecurityType": "Common Stock",
-        "Sector": "Services",
-        "Subsector": "Media",
-        "ListingDate": "1992-07-08"
-    },
-    {
-        "CompanyName": "ABS-CBN Holdings Corporation",
-        "StockSymbol": "ABSP",
-        "SecurityType": "Common Stock",
-        "Sector": "Services",
-        "Subsector": "Media",
-        "ListingDate": "1999-10-07"
-    },
-    {
-        "CompanyName": "Ayala Corporation",
-        "StockSymbol": "AC",
-        "SecurityType": "Common Stock",
-        "Sector": "Holding Firms",
-        "Subsector": "Holding Firms",
-        "ListingDate": "1976-11-08"
-    },
-    {
-        "CompanyName": "Acesite (Phils.) Hotel Corporation",
-        "StockSymbol": "ACE",
-        "SecurityType": "Common Stock",
-        "Sector": "Services",
-        "Subsector": "Hotel & Leisure",
-        "ListingDate": "1986-12-05"
-    },
-    {
-        "CompanyName": "ACEN CORPORATION",
-        "StockSymbol": "ACEN",
-        "SecurityType": "Common Stock",
-        "Sector": "Industrial",
-        "Subsector": "Electricity, Energy, Power & Water",
-        "ListingDate": "1970-01-05"
-    },
-    {
-        "CompanyName": "Alsons Consolidated Resources, Inc.",
-        "StockSymbol": "ACR",
-        "SecurityType": "Common Stock",
-        "Sector": "Industrial",
-        "Subsector": "Electricity, Energy, Power & Water",
-        "ListingDate": "1993-04-12"
-    },
-    {
-        "CompanyName": "Aboitiz Equity Ventures, Inc.",
-        "StockSymbol": "AEV",
-        "SecurityType": "Common Stock",
-        "Sector": "Holding Firms",
-        "Subsector": "Holding Firms",
-        "ListingDate": "1994-11-16"
-    },
-    {
-        "CompanyName": "Alliance Global Group, Inc.",
-        "StockSymbol": "AGI",
-        "SecurityType": "Common Stock",
-        "Sector": "Holding Firms",
-        "Subsector": "Holding Firms",
-        "ListingDate": "1999-04-19"
-    },
-    {
-        "CompanyName": "Arthaland Corporation",
-        "StockSymbol": "ALCO",
-        "SecurityType": "Common Stock",
-        "Sector": "Property",
-        "Subsector": "Property",
-        "ListingDate": "1996-03-19"
-    }
-]
+{"Symbol": "AAA", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "March 22, 1973"}
+{"Symbol": "AB", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "January 8, 1948"}
+{"Symbol": "ABA", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "October 28, 1987"}
+{"Symbol": "ABG", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "July 10, 1979"}
+{"Symbol": "ABS", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Media", "ListingDate": "July 8, 1992"}
+{"Symbol": "ABSP", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Media", "ListingDate": "October 7, 1999"}
+{"Symbol": "AC", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "November 8, 1976"}
+{"Symbol": "ACE", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Hotel & Leisure", "ListingDate": "December 5, 1986"}
+{"Symbol": "ACEN", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "January 5, 1970"}
+{"Symbol": "ACR", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "April 12, 1993"}
+{"Symbol": "AEV", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "November 16, 1994"}
+{"Symbol": "AGI", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "April 19, 1999"}
+{"Symbol": "ALCO", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "March 19, 1996"}
+{"Symbol": "ALHI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "August 8, 2007"}
+{"Symbol": "ALI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "July 5, 1991"}
+{"Symbol": "ALLDY", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "November 3, 2021"}
+{"Symbol": "ALLHC", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "February 28, 1990"}
+{"Symbol": "ALTER", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power, & Water", "ListingDate": "March 24, 2023"}
+{"Symbol": "ANI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "May 25, 2009"}
+{"Symbol": "ANS", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "October 25, 1973"}
+{"Symbol": "AP", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "July 16, 2007"}
+{"Symbol": "APC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "March 8, 1994"}
+{"Symbol": "APL", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "October 18, 2012"}
+{"Symbol": "APO", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "July 31, 1959"}
+{"Symbol": "APVI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 26, 2020"}
+{"Symbol": "APX", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "March 7, 1974"}
+{"Symbol": "AR", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "December 24, 1969"}
+{"Symbol": "ARA", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "November 14, 1989"}
+{"Symbol": "ASLAG", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "June 6, 2022"}
+{"Symbol": "AT", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "November 17, 1970"}
+{"Symbol": "ATI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "January 25, 1996"}
+{"Symbol": "ATN", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "September 24, 1970"}
+{"Symbol": "ATNB", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "September 24, 1970"}
+{"Symbol": "AUB", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "May 17, 2013"}
+{"Symbol": "AXLM", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "October 7, 2019"}
+{"Symbol": "BALAI", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "June 30, 2022"}
+{"Symbol": "BC", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "January 4, 1950"}
+{"Symbol": "BCB", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "January 4, 1950"}
+{"Symbol": "BCOR", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "November 29, 1948"}
+{"Symbol": "BDO", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "May 21, 2002"}
+{"Symbol": "BEL", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "February 2, 1977"}
+{"Symbol": "BH", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "November 2, 1966"}
+{"Symbol": "BHI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Hotel & Leisure", "ListingDate": "April 28, 1997"}
+{"Symbol": "BKR", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "March 21, 1995"}
+{"Symbol": "BLOOM", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "October 17, 2000"}
+{"Symbol": "BMM", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "November 16, 1950"}
+{"Symbol": "BNCOM", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "March 31, 2022"}
+{"Symbol": "BPI", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "October 12, 1971"}
+{"Symbol": "BRN", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "February 8, 1994"}
+{"Symbol": "BSC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "October 16, 1973"}
+{"Symbol": "C", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "August 8, 2017"}
+{"Symbol": "CA", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "October 20, 1972"}
+{"Symbol": "CAB", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "October 20, 1972"}
+{"Symbol": "CAT", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "April 12, 1977"}
+{"Symbol": "CBC", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "September 1, 1927"}
+{"Symbol": "CDC", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "August 2, 1983"}
+{"Symbol": "CEB", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "October 26, 2010"}
+{"Symbol": "CEI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "August 16, 1994"}
+{"Symbol": "CEU", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Education", "ListingDate": "November 10, 1986"}
+{"Symbol": "CHP", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "July 18, 2016"}
+{"Symbol": "CIC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electrical Components & Equipment", "ListingDate": "November 27, 2013"}
+{"Symbol": "CLI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 2, 2017"}
+{"Symbol": "CNPF", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "May 6, 2014"}
+{"Symbol": "CNVRG", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "October 26, 2020"}
+{"Symbol": "COAL", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "October 23, 2012"}
+{"Symbol": "COL", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "July 12, 2006"}
+{"Symbol": "COSCO", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "September 26, 1988"}
+{"Symbol": "CPG", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 16, 1976"}
+{"Symbol": "CPM", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "October 6, 2009"}
+{"Symbol": "CREC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power and Water", "ListingDate": "June 7, 2024"}
+{"Symbol": "CROWN", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Chemicals", "ListingDate": "April 27, 2015"}
+{"Symbol": "CSB", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "January 3, 2002"}
+{"Symbol": "CTS", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "April 13, 2022"}
+{"Symbol": "CYBR", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "March 19, 1991"}
+{"Symbol": "DD", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "April 7, 2014"}
+{"Symbol": "DELM", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "June 10, 2013"}
+{"Symbol": "DFNN", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "October 30, 2000"}
+{"Symbol": "DHI", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "January 6, 1997"}
+{"Symbol": "DITO", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "October 1, 1975"}
+{"Symbol": "DIZ", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "February 10, 1988"}
+{"Symbol": "DMC", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "December 18, 1995"}
+{"Symbol": "DMPI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "June 10, 2013"}
+{"Symbol": "DMW", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 29, 2018"}
+{"Symbol": "DNA", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "September 3, 2009"}
+{"Symbol": "DNL", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "December 12, 2012"}
+{"Symbol": "DWC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Hotel & Leisure", "ListingDate": "November 21, 2013"}
+{"Symbol": "ECP", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "May 5, 1992"}
+{"Symbol": "ECVC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "August 31, 1970"}
+{"Symbol": "EEI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "July 21, 1975"}
+{"Symbol": "EG", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "February 17, 2010"}
+{"Symbol": "ELI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 28, 1996"}
+{"Symbol": "EMI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "December 19, 2011"}
+{"Symbol": "ENEX", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Oil", "ListingDate": "August 28, 2014"}
+{"Symbol": "EURO", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Chemicals", "ListingDate": "July 2, 1998"}
+{"Symbol": "EVER", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "September 16, 1996"}
+{"Symbol": "EW", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "May 7, 2012"}
+{"Symbol": "FAF", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "November 17, 1994"}
+{"Symbol": "FB", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "October 28, 1971"}
+{"Symbol": "FCG", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "January 24, 2022"}
+{"Symbol": "FDC", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "December 22, 1982"}
+{"Symbol": "FERRO", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "August 13, 2013"}
+{"Symbol": "FEU", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Education", "ListingDate": "July 11, 1986"}
+{"Symbol": "FFI", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "September 27, 1995"}
+{"Symbol": "FGEN", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "February 10, 2006"}
+{"Symbol": "FJP", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "December 8, 1982"}
+{"Symbol": "FJPB", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "December 8, 1982"}
+{"Symbol": "FLI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "October 25, 1993"}
+{"Symbol": "FNI", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "December 14, 1994"}
+{"Symbol": "FOOD", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "November 8, 2006"}
+{"Symbol": "FPH", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "May 23, 1963"}
+{"Symbol": "FPI", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "December 19, 1994"}
+{"Symbol": "FRUIT", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "November 29, 2019"}
+{"Symbol": "FYN", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Other Industrials", "ListingDate": "June 3, 1975"}
+{"Symbol": "GEO", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "February 7, 1972"}
+{"Symbol": "GERI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "November 23, 1995"}
+{"Symbol": "GLO", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Telecommunications", "ListingDate": "August 11, 1975"}
+{"Symbol": "GMA7", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Media", "ListingDate": "July 30, 2007"}
+{"Symbol": "GMAP", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Media", "ListingDate": "July 30, 2007"}
+{"Symbol": "GPH", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Hotel & Leisure", "ListingDate": "December 10, 1992"}
+{"Symbol": "GREEN", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electrical Components & Equipment", "ListingDate": "September 26, 1996"}
+{"Symbol": "GSMI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "April 18, 1995"}
+{"Symbol": "GTCAP", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "April 20, 2012"}
+{"Symbol": "HI", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "July 2, 1962"}
+{"Symbol": "HOME", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "October 10, 2019"}
+{"Symbol": "HOUSE", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "December 9, 2010"}
+{"Symbol": "HTI", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "January 17, 2022"}
+{"Symbol": "HVN", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 29, 2016"}
+{"Symbol": "I", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "October 17, 2007"}
+{"Symbol": "ICT", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "March 23, 1992"}
+{"Symbol": "IDC", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "December 7, 2015"}
+{"Symbol": "IMI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electrical Components & Equipment", "ListingDate": "January 21, 2010"}
+{"Symbol": "IMP", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "August 31, 1970"}
+{"Symbol": "INFRA", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "February 27, 1978"}
+{"Symbol": "ION", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electrical Components & Equipment", "ListingDate": "July 18, 1995"}
+{"Symbol": "IPM", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "June 17, 1998"}
+{"Symbol": "IPO", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Education", "ListingDate": "January 24, 1990"}
+{"Symbol": "IS", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "December 6, 1988"}
+{"Symbol": "JAS", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "October 27, 1967"}
+{"Symbol": "JFC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "July 14, 1993"}
+{"Symbol": "JGS", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "August 9, 1993"}
+{"Symbol": "JOH", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "June 17, 2002"}
+{"Symbol": "KEEPR", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "September 3, 1991"}
+{"Symbol": "KEP", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "September 11, 1989"}
+{"Symbol": "KPH", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "August 26, 1987"}
+{"Symbol": "KPHB", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "August 26, 1987"}
+{"Symbol": "KPPI", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "August 19, 2019"}
+{"Symbol": "LAND", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "December 13, 1999"}
+{"Symbol": "LBC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "December 21, 2001"}
+{"Symbol": "LC", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "April 30, 1947"}
+{"Symbol": "LCB", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "April 30, 1947"}
+{"Symbol": "LFM", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "April 25, 1985"}
+{"Symbol": "LMG", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Chemicals", "ListingDate": "January 7, 1986"}
+{"Symbol": "LODE", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "May 26, 1989"}
+{"Symbol": "LOTO", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "April 12, 2007"}
+{"Symbol": "LPC", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "November 9, 2022"}
+{"Symbol": "LPZ", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "November 25, 1993"}
+{"Symbol": "LSC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "July 22, 1996"}
+{"Symbol": "LTG", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "November 7, 1947"}
+{"Symbol": "MA", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "December 17, 1959"}
+{"Symbol": "MAB", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "December 17, 1959"}
+{"Symbol": "MAC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "May 21, 1970"}
+{"Symbol": "MACAY", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "January 28, 1987"}
+{"Symbol": "MAH", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "December 8, 1947"}
+{"Symbol": "MAHB", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "December 8, 1947"}
+{"Symbol": "MARC", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "January 10, 1958"}
+{"Symbol": "MAXS", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "December 15, 2000"}
+{"Symbol": "MB", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Media", "ListingDate": "April 18, 1990"}
+{"Symbol": "MBC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Media", "ListingDate": "October 8, 1949"}
+{"Symbol": "MBT", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "February 26, 1981"}
+{"Symbol": "MED", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "November 18, 1975"}
+{"Symbol": "MEDIC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "December 7, 2021"}
+{"Symbol": "MEG", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 15, 1994"}
+{"Symbol": "MER", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "January 8, 1992"}
+{"Symbol": "MFC", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "September 27, 1999"}
+{"Symbol": "MFIN", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "January 6, 2003"}
+{"Symbol": "MG", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "March 1, 1976"}
+{"Symbol": "MGH", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "May 4, 1964"}
+{"Symbol": "MHC", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "October 22, 1990"}
+{"Symbol": "MJC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "October 11, 1963"}
+{"Symbol": "MJIC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "November 11, 1955"}
+{"Symbol": "MM", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "June 15, 2020"}
+{"Symbol": "MONDE", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "June 1, 2021"}
+{"Symbol": "MRC", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "May 18, 1995"}
+{"Symbol": "MRSGI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "November 24, 2015"}
+{"Symbol": "MVC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Chemicals", "ListingDate": "February 5, 1997"}
+{"Symbol": "MWC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "March 18, 2005"}
+{"Symbol": "MWIDE", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "February 18, 2011"}
+{"Symbol": "NI", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "October 3, 1990"}
+{"Symbol": "NIKL", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "November 22, 2010"}
+{"Symbol": "NOW", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "July 23, 2003"}
+{"Symbol": "NRCP", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "April 27, 2007"}
+{"Symbol": "NXGEN", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "October 8, 1996"}
+{"Symbol": "OGP", "SecurityType": "Common Stock", "Sector": "Mining & Oil", "Subsector": "Mining", "ListingDate": "May 13, 2024"}
+{"Symbol": "OM", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "May 2, 1969"}
+{"Symbol": "OPM", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Oil", "ListingDate": "October 14, 1970"}
+{"Symbol": "OPMB", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Oil", "ListingDate": "October 14, 1970"}
+{"Symbol": "ORE", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "December 19, 2007"}
+{"Symbol": "OV", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Oil", "ListingDate": "September 25, 1969"}
+{"Symbol": "PA", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "November 23, 1959"}
+{"Symbol": "PAL", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "January 4, 1954"}
+{"Symbol": "PAX", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "October 5, 1972"}
+{"Symbol": "PBB", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "February 19, 2013"}
+{"Symbol": "PBC", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "May 12, 1988"}
+{"Symbol": "PCOR", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "September 7, 1994"}
+{"Symbol": "PERC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "August 11, 2004"}
+{"Symbol": "PGOLD", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "October 5, 2011"}
+{"Symbol": "PHA", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "May 5, 1997"}
+{"Symbol": "PHC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "November 28, 1958"}
+{"Symbol": "PHES", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "January 21, 1985"}
+{"Symbol": "PHN", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "August 18, 1958"}
+{"Symbol": "PHR", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "November 24, 2011"}
+{"Symbol": "PIZZA", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "December 15, 2016"}
+{"Symbol": "PLUS", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "April 17, 1958"}
+{"Symbol": "PMPC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electrical Components & Equipment", "ListingDate": "January 21, 1983"}
+{"Symbol": "PNB", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "June 21, 1989"}
+{"Symbol": "PNC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "March 13, 1974"}
+{"Symbol": "PNX", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "July 11, 2007"}
+{"Symbol": "PORT", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "June 9, 1948"}
+{"Symbol": "PPC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Chemicals", "ListingDate": "October 29, 1991"}
+{"Symbol": "PRC", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "March 2, 1952"}
+{"Symbol": "PRIM", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "July 29, 1964"}
+{"Symbol": "PRMX", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "August 10, 2001"}
+{"Symbol": "PSB", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "October 10, 1994"}
+{"Symbol": "PSE", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "December 15, 2003"}
+{"Symbol": "PTC", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "February 17, 1988"}
+{"Symbol": "PTT", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Telecommunications", "ListingDate": "January 10, 1990"}
+{"Symbol": "PX", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "November 23, 1956"}
+{"Symbol": "PXP", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Oil", "ListingDate": "September 12, 2011"}
+{"Symbol": "RCB", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "November 6, 1986"}
+{"Symbol": "RCI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "November 29, 1948"}
+{"Symbol": "REDC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power and Water", "ListingDate": "July 24, 2023"}
+{"Symbol": "REG", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "July 17, 1959"}
+{"Symbol": "RFM", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "February 21, 1966"}
+{"Symbol": "RLC", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "October 16, 1989"}
+{"Symbol": "RLT", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "September 7, 1987"}
+{"Symbol": "ROCK", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "May 11, 2012"}
+{"Symbol": "ROX", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "August 8, 1996"}
+{"Symbol": "RRHI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "November 11, 2013"}
+{"Symbol": "SBS", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Other Services", "ListingDate": "August 10, 2015"}
+{"Symbol": "SCC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power and Water", "ListingDate": "November 28, 1983"}
+{"Symbol": "SECB", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "June 8, 1995"}
+{"Symbol": "SEVN", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "February 4, 1998"}
+{"Symbol": "SFI", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "November 15, 1994"}
+{"Symbol": "SGI", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "April 26, 1948"}
+{"Symbol": "SGP", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "May 10, 1972"}
+{"Symbol": "SHLPH", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "November 3, 2016"}
+{"Symbol": "SHNG", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 13, 1991"}
+{"Symbol": "SLF", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "March 24, 2000"}
+{"Symbol": "SLI", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "September 14, 1987"}
+{"Symbol": "SM", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "March 22, 2005"}
+{"Symbol": "SMC", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "November 5, 1948"}
+{"Symbol": "SMPH", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "July 5, 1994"}
+{"Symbol": "SOC", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "January 5, 1994"}
+{"Symbol": "SPC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "April 2, 2002"}
+{"Symbol": "SPM", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "May 7, 1974"}
+{"Symbol": "SPNEC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "December 17, 2021"}
+{"Symbol": "SRDC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "December 19, 2003"}
+{"Symbol": "SSI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "November 7, 2014"}
+{"Symbol": "STI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Education", "ListingDate": "October 12, 1976"}
+{"Symbol": "STN", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Other Industrials", "ListingDate": "November 22, 1993"}
+{"Symbol": "STR", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "November 17, 1970"}
+{"Symbol": "SUN", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "February 11, 1959"}
+{"Symbol": "T", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Construction, Infra. & Allied Services", "ListingDate": "July 20, 2001"}
+{"Symbol": "TBGI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Information Technology", "ListingDate": "December 12, 2003"}
+{"Symbol": "TECH", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electrical Components & Equipment", "ListingDate": "November 18, 2011"}
+{"Symbol": "TEL", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Telecommunications", "ListingDate": "September 17, 1953"}
+{"Symbol": "TFC", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "December 19, 1955"}
+{"Symbol": "TFHI", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "January 13, 2014"}
+{"Symbol": "TUGS", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Transportation Services", "ListingDate": "October 30, 2013"}
+{"Symbol": "UBP", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Banks", "ListingDate": "June 29, 1992"}
+{"Symbol": "UNH", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Chemicals", "ListingDate": "November 21, 1985"}
+{"Symbol": "UPM", "SecurityType": "Common Stock", "Sector": "Mining and Oil", "Subsector": "Mining", "ListingDate": "August 31, 1972"}
+{"Symbol": "UPSON", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "April 3, 2023"}
+{"Symbol": "URC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "March 25, 1994"}
+{"Symbol": "V", "SecurityType": "Common Stock", "Sector": "Financials", "Subsector": "Other Financial Institutions", "ListingDate": "March 30, 1993"}
+{"Symbol": "VITA", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "February 8, 1995"}
+{"Symbol": "VLL", "SecurityType": "Common Stock", "Sector": "Property", "Subsector": "Property", "ListingDate": "June 25, 2007"}
+{"Symbol": "VMC", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Food, Beverage & Tobacco", "ListingDate": "November 15, 1993"}
+{"Symbol": "VVT", "SecurityType": "Common Stock", "Sector": "Industrial", "Subsector": "Electricity, Energy, Power & Water", "ListingDate": "June 23, 1994"}
+{"Symbol": "WEB", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Casinos & Gaming", "ListingDate": "December 8, 1969"}
+{"Symbol": "WIN", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "January 9, 1958"}
+{"Symbol": "WLCON", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Retail", "ListingDate": "March 31, 2017"}
+{"Symbol": "WPI", "SecurityType": "Common Stock", "Sector": "Services", "Subsector": "Hotel & Leisure", "ListingDate": "March 17, 1995"}
+{"Symbol": "X", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "December 2, 2014"}
+{"Symbol": "XG", "SecurityType": "Common Stock", "Sector": "Small, Medium & Emerging Board", "Subsector": "Small, Medium & Emerging Board", "ListingDate": "July 16, 2024"}
+{"Symbol": "ZHI", "SecurityType": "Common Stock", "Sector": "Holding Firms", "Subsector": "Holding Firms", "ListingDate": "July 15, 1991"}
