@@ -5,8 +5,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Holding Firms",
         "Subsector": "Holding Firms",
-        "ListingDate ": "March 22, 1973 ",
-        "null": null
+        "ListingDate": "1973-03-22"
     },
     {
         "CompanyName": "Atok-Big Wedge Co., Inc.",
@@ -14,8 +13,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Mining and Oil",
         "Subsector": "Mining",
-        "ListingDate ": "January 8, 1948 ",
-        "null": null
+        "ListingDate": "1948-01-08"
     },
     {
         "CompanyName": "AbaCore Capital Holdings, Inc.",
@@ -23,8 +21,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Holding Firms",
         "Subsector": "Holding Firms",
-        "ListingDate ": "October 28, 1987 ",
-        "null": null
+        "ListingDate": "1987-10-28"
     },
     {
         "CompanyName": "Asiabest Group International Inc.",
@@ -32,8 +29,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Holding Firms",
         "Subsector": "Holding Firms",
-        "ListingDate ": "July 10, 1979 ",
-        "null": null
+        "ListingDate": "1979-07-10"
     },
     {
         "CompanyName": "ABS-CBN Corporation",
@@ -41,8 +37,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Services",
         "Subsector": "Media",
-        "ListingDate ": "July 8, 1992 ",
-        "null": null
+        "ListingDate": "1992-07-08"
     },
     {
         "CompanyName": "ABS-CBN Holdings Corporation",
@@ -50,8 +45,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Services",
         "Subsector": "Media",
-        "ListingDate ": "October 7, 1999 ",
-        "null": null
+        "ListingDate": "1999-10-07"
     },
     {
         "CompanyName": "Ayala Corporation",
@@ -59,8 +53,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Holding Firms",
         "Subsector": "Holding Firms",
-        "ListingDate ": "November 8, 1976 ",
-        "null": null
+        "ListingDate": "1976-11-08"
     },
     {
         "CompanyName": "Acesite (Phils.) Hotel Corporation",
@@ -68,8 +61,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Services",
         "Subsector": "Hotel & Leisure",
-        "ListingDate ": "December 5, 1986 ",
-        "null": null
+        "ListingDate": "1986-12-05"
     },
     {
         "CompanyName": "ACEN CORPORATION",
@@ -77,8 +69,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Industrial",
         "Subsector": "Electricity, Energy, Power & Water",
-        "ListingDate ": "January 5, 1970 ",
-        "null": null
+        "ListingDate": "1970-01-05"
     },
     {
         "CompanyName": "Alsons Consolidated Resources, Inc.",
@@ -86,8 +77,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Industrial",
         "Subsector": "Electricity, Energy, Power & Water",
-        "ListingDate ": "April 12, 1993 ",
-        "null": null
+        "ListingDate": "1993-04-12"
     },
     {
         "CompanyName": "Aboitiz Equity Ventures, Inc.",
@@ -95,8 +85,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Holding Firms",
         "Subsector": "Holding Firms",
-        "ListingDate ": "November 16, 1994 ",
-        "null": null
+        "ListingDate": "1994-11-16"
     },
     {
         "CompanyName": "Alliance Global Group, Inc.",
@@ -104,8 +93,7 @@
         "SecurityType": "Common Stock",
         "Sector": "Holding Firms",
         "Subsector": "Holding Firms",
-        "ListingDate ": "April 19, 1999 ",
-        "null": null
+        "ListingDate": "1999-04-19"
     },
     {
         "CompanyName": "Arthaland Corporation",
@@ -113,7 +101,6 @@
         "SecurityType": "Common Stock",
         "Sector": "Property",
         "Subsector": "Property",
-        "ListingDate ": "March 19, 1996 ",
-        "null": null
+        "ListingDate": "1996-03-19"
     }
 ]
