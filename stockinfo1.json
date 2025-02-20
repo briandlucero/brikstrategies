@@ -1,564 +1,2361 @@
-{
-  "stocks": [
-    {
-      "symbol": "AAA",
-      "name": "AAA Company",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "March 22, 1973"
-    },
-    {
-      "symbol": "AB",
-      "name": "AB Corporation",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "January 8, 1948"
-    },
-    {
-      "symbol": "ABA",
-      "name": "ABA Industries",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "October 28, 1987"
-    },
-    {
-      "symbol": "ABG",
-      "name": "ABG Group",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "July 10, 1979"
-    },
-    {
-      "symbol": "ABS",
-      "name": "ABS Media",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Media",
-      "listingDate": "July 8, 1992"
-    },
-    {
-      "symbol": "ABSP",
-      "name": "ABSP Publishing",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Media",
-      "listingDate": "October 7, 1999"
-    },
-    {
-      "symbol": "AC",
-      "name": "AC Holdings",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "November 8, 1976"
-    },
-    {
-      "symbol": "ACE",
-      "name": "ACE Leisure Group",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Hotel & Leisure",
-      "listingDate": "December 5, 1986"
-    },
-    {
-      "symbol": "ACEN",
-      "name": "ACEN Corporation",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electricity, Energy, Power & Water",
-      "listingDate": "January 5, 1970"
-    },
-    {
-      "symbol": "ACR",
-      "name": "ACR Energy",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electricity, Energy, Power & Water",
-      "listingDate": "April 12, 1993"
-    },
-    {
-      "symbol": "AEV",
-      "name": "AEV Enterprises",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "November 16, 1994"
-    },
-    {
-      "symbol": "AGI",
-      "name": "AGI Investments",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "April 19, 1999"
-    },
-    {
-      "symbol": "ALCO",
-      "name": "ALCO Properties",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "March 19, 1996"
-    },
-    {
-      "symbol": "ALHI",
-      "name": "ALHI Development",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "August 8, 2007"
-    },
-    {
-      "symbol": "ALI",
-      "name": "ALI Land",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "July 5, 1991"
-    },
-    {
-      "symbol": "ALLDY",
-      "name": "ALLDY Retail",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Retail",
-      "listingDate": "November 3, 2021"
-    },
-    {
-      "symbol": "ALLHC",
-      "name": "ALLHC Properties",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "February 28, 1990"
-    },
-    {
-      "symbol": "ALTER",
-      "name": "ALTER Energy",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electricity, Energy, Power, & Water",
-      "listingDate": "March 24, 2023"
-    },
-    {
-      "symbol": "ANI",
-      "name": "ANI Foods",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Food, Beverage & Tobacco",
-      "listingDate": "May 25, 2009"
-    },
-    {
-      "symbol": "ANS",
-      "name": "ANS Holdings",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "October 25, 1973"
-    },
-    {
-      "symbol": "AP",
-      "name": "AP Energy",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electricity, Energy, Power & Water",
-      "listingDate": "July 16, 2007"
-    },
-    {
-      "symbol": "APC",
-      "name": "APC Services",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Other Services",
-      "listingDate": "March 8, 1994"
-    },
-    {
-      "symbol": "APL",
-      "name": "APL Technologies",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Information Technology",
-      "listingDate": "October 18, 2012"
-    },
-    {
-      "symbol": "APO",
-      "name": "APO Investments",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "July 31, 1959"
-    },
-    {
-      "symbol": "APVI",
-      "name": "APVI Properties",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "June 26, 2020"
-    },
-    {
-      "symbol": "APX",
-      "name": "APX Mining",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "March 7, 1974"
-    },
-    {
-      "symbol": "AR",
-      "name": "AR Resources",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "December 24, 1969"
-    },
-    {
-      "symbol": "ARA",
-      "name": "ARA Realty",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "November 14, 1989"
-    },
-    {
-      "symbol": "ASLAG",
-      "name": "ASLAG Energy",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electricity, Energy, Power & Water",
-      "listingDate": "June 6, 2022"
-    },
-    {
-      "symbol": "AT",
-      "name": "AT Mining",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "November 17, 1970"
-    },
-    {
-      "symbol": "ATI",
-      "name": "ATI Transport",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Transportation Services",
-      "listingDate": "January 25, 1996"
-    },
-    {
-      "symbol": "ATN",
-      "name": "ATN Holdings",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "September 24, 1970"
-    },
-    {
-      "symbol": "ATNB",
-      "name": "ATNB Holdings B",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "September 24, 1970"
-    },
-    {
-      "symbol": "AUB",
-      "name": "AUB Bank",
-      "securityType": "Common Stock",
-      "sector": "Financials",
-      "subsector": "Banks",
-      "listingDate": "May 17, 2013"
-    },
-    {
-      "symbol": "AXLM",
-      "name": "AXLM Foods",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Food, Beverage & Tobacco",
-      "listingDate": "October 7, 2019"
-    },
-    {
-      "symbol": "BALAI",
-      "name": "BALAI SME",
-      "securityType": "Common Stock",
-      "sector": "Small, Medium & Emerging Board",
-      "subsector": "Small, Medium & Emerging Board",
-      "listingDate": "June 30, 2022"
-    },
-    {
-      "symbol": "BC",
-      "name": "BC Mining",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "January 4, 1950"
-    },
-    {
-      "symbol": "BCB",
-      "name": "BCB Mining B",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "January 4, 1950"
-    },
-    {
-      "symbol": "BCOR",
-      "name": "BCOR Retail",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Retail",
-      "listingDate": "November 29, 1948"
-    },
-    {
-      "symbol": "BDO",
-      "name": "BDO Unibank",
-      "securityType": "Common Stock",
-      "sector": "Financials",
-      "subsector": "Banks",
-      "listingDate": "May 21, 2002"
-    },
-    {
-      "symbol": "BEL",
-      "name": "Belle Corp",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Casinos & Gaming",
-      "listingDate": "February 2, 1977"
-    },
-    {
-      "symbol": "BH",
-      "name": "Benhar Holdings",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "November 2, 1966"
-    },
-    {
-      "symbol": "BHI",
-      "name": "Boulevard Holdings",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Hotel & Leisure",
-      "listingDate": "April 28, 1997"
-    },
-    {
-      "symbol": "BKR",
-      "name": "BKR Finance",
-      "securityType": "Common Stock",
-      "sector": "Financials",
-      "subsector": "Other Financial Institutions",
-      "listingDate": "March 21, 1995"
-    },
-    {
-      "symbol": "BLOOM",
-      "name": "Bloomberry Resorts",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Casinos & Gaming",
-      "listingDate": "October 17, 2000"
-    },
-    {
-      "symbol": "BMM",
-      "name": "BMM Foods",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Food, Beverage & Tobacco",
-      "listingDate": "November 16, 1950"
-    },
-    {
-      "symbol": "BNCOM",
-      "name": "Bank of Commerce",
-      "securityType": "Common Stock",
-      "sector": "Financials",
-      "subsector": "Banks",
-      "listingDate": "March 31, 2022"
-    },
-    {
-      "symbol": "BPI",
-      "name": "Bank of the Philippine Islands",
-      "securityType": "Common Stock",
-      "sector": "Financials",
-      "subsector": "Banks",
-      "listingDate": "October 12, 1971"
-    },
-    {
-      "symbol": "BRN",
-      "name": "BRN Properties",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "February 8, 1994"
-    },
-    {
-      "symbol": "BSC",
-      "name": "Basic Energy Corporation",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electricity, Energy, Power & Water",
-      "listingDate": "October 16, 1973"
-    },
-    {
-      "symbol": "C",
-      "name": "Chelsea Logistics",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Transportation Services",
-      "listingDate": "August 8, 2017"
-    },
-    {
-      "symbol": "CA",
-      "name": "Cemex Holdings Philippines",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Construction, Infra. & Allied Services",
-      "listingDate": "October 20, 1972"
-    },
-    {
-      "symbol": "CAB",
-      "name": "Cemex Asia",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Construction, Infra. & Allied Services",
-      "listingDate": "October 20, 1972"
-    },
-    {
-      "symbol": "CAT",
-      "name": "Century Pacific Food Inc.",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Food, Beverage & Tobacco",
-      "listingDate": "April 12, 1977"
-    },
-    {
-      "symbol": "CBC",
-      "name": "China Bank Corp.",
-      "securityType": "Common Stock",
-      "sector": "Financials",
-      "subsector": "Banks",
-      "listingDate": "September 1, 1927"
-    },
-        {
-      "symbol": "CDC",
-      "name": "CDC Holdings",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "August 2, 1983"
-    },
-        {
-      "symbol": "CEB",
-      "name": "Cebu Air Inc.",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Transportation Services",
-      "listingDate": "October 26, 2010"
-    },
-        {
-      "symbol": "CEI",
-      "name": "Century Properties Group",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "August 16, 1994"
-    },
-        {
-      "symbol": "CEU",
-      "name": "Centro Escolar University",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Education",
-      "listingDate": "November 10, 1986"
-    },
-        {
-      "symbol": "CHP",
-      "name": "Cemex Holdings Pil.",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Construction, Infra. & Allied Services",
-      "listingDate": "July 18, 2016"
-    },
-        {
-      "symbol": "CIC",
-      "name": "Cirtek Holdings Philippines",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electrical Components & Equipment",
-      "listingDate": "November 27, 2013"
-    },
-        {
-      "symbol": "CLI",
-      "name": "Cebu Landmasters Inc.",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "June 2, 2017"
-    },
-        {
-      "symbol": "CNPF",
-      "name": "Century Pacific Food",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Food, Beverage & Tobacco",
-      "listingDate": "May 6, 2014"
-    },
-        {
-      "symbol": "CNVRG",
-      "name": "Converge ICT Solutions Inc.",
-      "securityType": "Common Stock",
-      "sector": "Services",
-      "subsector": "Information Technology",
-      "listingDate": "October 26, 2020"
-    },
-        {
-      "symbol": "COAL",
-      "name": "Semirara Mining and Power Corp.",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "October 23, 2012"
-    },
-        {
-      "symbol": "COL",
-      "name": "C.O.L. Financial Group Inc.",
-      "securityType": "Common Stock",
-      "sector": "Financials",
-      "subsector": "Other Financial Institutions",
-      "listingDate": "July 12, 2006"
-    },
-        {
-      "symbol": "COSCO",
-      "name": "Cosco Capital Inc.",
-      "securityType": "Common Stock",
-      "sector": "Holding Firms",
-      "subsector": "Holding Firms",
-      "listingDate": "September 26, 1988"
-    },
-        {
-      "symbol": "CPG",
-      "name": "CPG Holdings",
-      "securityType": "Common Stock",
-      "sector": "Property",
-      "subsector": "Property",
-      "listingDate": "June 16, 1976"
-    },
-        {
-      "symbol": "CPM",
-      "name": "Carmen Copper Corporation",
-      "securityType": "Common Stock",
-      "sector": "Mining and Oil",
-      "subsector": "Mining",
-      "listingDate": "October 6, 2009"
-    },
-        {
-      "symbol": "CREC",
-      "name": "Citicore Renewable Energy Corp.",
-      "securityType": "Common Stock",
-      "sector": "Industrial",
-      "subsector": "Electricity, Energy, Power and Water",
-      "listingDate": "June 7, 2024"
-    },
-        {
-      "symbol": "CROWN",
+ {
+  "CompanyName": "Asia Amalgamated Holdings Corporation",
+  "Symbol": "AAA",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "March 22, 1973"
+ },
+ {
+  "CompanyName": "Atok-Big Wedge Co., Inc.",
+  "Symbol": "AB",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "January 8, 1948"
+ },
+ {
+  "CompanyName": "AbaCore Capital Holdings, Inc.",
+  "Symbol": "ABA",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "October 28, 1987"
+ },
+ {
+  "CompanyName": "Asiabest Group International Inc.",
+  "Symbol": "ABG",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "July 10, 1979"
+ },
+ {
+  "CompanyName": "ABS-CBN Corporation",
+  "Symbol": "ABS",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Media",
+  "ListingDate": "July 8, 1992"
+ },
+ {
+  "CompanyName": "ABS-CBN Holdings Corporation",
+  "Symbol": "ABSP",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Media",
+  "ListingDate": "October 7, 1999"
+ },
+ {
+  "CompanyName": "Ayala Corporation",
+  "Symbol": "AC",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "November 8, 1976"
+ },
+ {
+  "CompanyName": "Acesite (Phils.) Hotel Corporation",
+  "Symbol": "ACE",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Hotel & Leisure",
+  "ListingDate": "December 5, 1986"
+ },
+ {
+  "CompanyName": "ACEN CORPORATION",
+  "Symbol": "ACEN",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "January 5, 1970"
+ },
+ {
+  "CompanyName": "Alsons Consolidated Resources, Inc.",
+  "Symbol": "ACR",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "April 12, 1993"
+ },
+ {
+  "CompanyName": "Aboitiz Equity Ventures, Inc.",
+  "Symbol": "AEV",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "November 16, 1994"
+ },
+ {
+  "CompanyName": "Alliance Global Group, Inc.",
+  "Symbol": "AGI",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "April 19, 1999"
+ },
+ {
+  "CompanyName": "Arthaland Corporation",
+  "Symbol": "ALCO",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "March 19, 1996"
+ },
+ {
+  "CompanyName": "Anchor Land Holdings, Inc.",
+  "Symbol": "ALHI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "August 8, 2007"
+ },
+ {
+  "CompanyName": "Ayala Land, Inc.",
+  "Symbol": "ALI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "July 5, 1991"
+ },
+ {
+  "CompanyName": "AllDay Marts, Inc.",
+  "Symbol": "ALLDY",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "November 3, 2021"
+ },
+ {
+  "CompanyName": "AyalaLand Logistics Holdings Corp.",
+  "Symbol": "ALLHC",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "February 28, 1990"
+ },
+ {
+  "CompanyName": "Alternergy Holdings Corporation",
+  "Symbol": "ALTER",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power, & Water",
+  "ListingDate": "March 24, 2023"
+ },
+ {
+  "CompanyName": "AgriNurture, Inc.",
+  "Symbol": "ANI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "May 25, 2009"
+ },
+ {
+  "CompanyName": "A. Soriano Corporation",
+  "Symbol": "ANS",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "October 25, 1973"
+ },
+ {
+  "CompanyName": "Aboitiz Power Corporation",
+  "Symbol": "AP",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "July 16, 2007"
+ },
+ {
+  "CompanyName": "APC Group, Inc.",
+  "Symbol": "APC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "March 8, 1994"
+ },
+ {
+  "CompanyName": "Apollo Global Capital, Inc.",
+  "Symbol": "APL",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "October 18, 2012"
+ },
+ {
+  "CompanyName": "Anglo Philippine Holdings Corporation",
+  "Symbol": "APO",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "July 31, 1959"
+ },
+ {
+  "CompanyName": "Altus Property Ventures, Inc.",
+  "Symbol": "APVI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 26, 2020"
+ },
+ {
+  "CompanyName": "Apex Mining Co., Inc.",
+  "Symbol": "APX",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "March 7, 1974"
+ },
+ {
+  "CompanyName": "Abra Mining and Industrial Corporation",
+  "Symbol": "AR",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "December 24, 1969"
+ },
+ {
+  "CompanyName": "Araneta Properties, Inc.",
+  "Symbol": "ARA",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "November 14, 1989"
+ },
+ {
+  "CompanyName": "AREIT, Inc.",
+  "Symbol": "AREIT",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "August 13, 2020"
+ },
+ {
+  "CompanyName": "Raslag Corp.",
+  "Symbol": "ASLAG",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "June 6, 2022"
+ },
+ {
+  "CompanyName": "Atlas Consolidated Mining and Development Corporation",
+  "Symbol": "AT",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "November 17, 1970"
+ },
+ {
+  "CompanyName": "Asian Terminals, Inc.",
+  "Symbol": "ATI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "January 25, 1996"
+ },
+ {
+  "CompanyName": "ATN Holdings, Inc.",
+  "Symbol": "ATN",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "September 24, 1970"
+ },
+ {
+  "CompanyName": "ATN Holdings, Inc. ``B``",
+  "Symbol": "ATNB",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "September 24, 1970"
+ },
+ {
+  "CompanyName": "Asia United Bank Corporation",
+  "Symbol": "AUB",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "May 17, 2013"
+ },
+ {
+  "CompanyName": "Axelum Resources Corp.",
+  "Symbol": "AXLM",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "October 7, 2019"
+ },
+ {
+  "CompanyName": "Balai Ni Fruitas Inc.",
+  "Symbol": "BALAI",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "June 30, 2022"
+ },
+ {
+  "CompanyName": "Benguet Corporation",
+  "Symbol": "BC",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "January 4, 1950"
+ },
+ {
+  "CompanyName": "Benguet Corporation ``B``",
+  "Symbol": "BCB",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "January 4, 1950"
+ },
+ {
+  "CompanyName": "Berjaya Philippines Inc.",
+  "Symbol": "BCOR",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "November 29, 1948"
+ },
+ {
+  "CompanyName": "BDO Unibank, Inc.",
+  "Symbol": "BDO",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "May 21, 2002"
+ },
+ {
+  "CompanyName": "Belle Corporation",
+  "Symbol": "BEL",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "February 2, 1977"
+ },
+ {
+  "CompanyName": "BHI Holdings, Inc.",
+  "Symbol": "BH",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "November 2, 1966"
+ },
+ {
+  "CompanyName": "Boulevard Holdings, Inc.",
+  "Symbol": "BHI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Hotel & Leisure",
+  "ListingDate": "April 28, 1997"
+ },
+ {
+  "CompanyName": "Bright Kindle Resources & Investments Inc.",
+  "Symbol": "BKR",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "March 21, 1995"
+ },
+ {
+  "CompanyName": "Bloomberry Resorts Corporation",
+  "Symbol": "BLOOM",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "October 17, 2000"
+ },
+ {
+  "CompanyName": "Bogo-Medellin Milling Company, Inc.",
+  "Symbol": "BMM",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "November 16, 1950"
+ },
+ {
+  "CompanyName": "Bank of Commerce",
+  "Symbol": "BNCOM",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "March 31, 2022"
+ },
+ {
+  "CompanyName": "Bank of the Philippine Islands",
+  "Symbol": "BPI",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "October 12, 1971"
+ },
+ {
+  "CompanyName": "A Brown Company, Inc.",
+  "Symbol": "BRN",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "February 8, 1994"
+ },
+ {
+  "CompanyName": "Basic Energy Corporation",
+  "Symbol": "BSC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "October 16, 1973"
+ },
+ {
+  "CompanyName": "Chelsea Logistics and Infrastructure Holdings Corp.",
+  "Symbol": "C",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "August 8, 2017"
+ },
+ {
+  "CompanyName": "Concrete Aggregates Corporation",
+  "Symbol": "CA",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "October 20, 1972"
+ },
+ {
+  "CompanyName": "Concrete Aggregates Corp. ``B``",
+  "Symbol": "CAB",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "October 20, 1972"
+ },
+ {
+  "CompanyName": "Central Azucarera de Tarlac, Inc.",
+  "Symbol": "CAT",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "April 12, 1977"
+ },
+ {
+  "CompanyName": "China Banking Corporation",
+  "Symbol": "CBC",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "September 1, 1927"
+ },
+ {
+  "CompanyName": "Cityland Development Corporation",
+  "Symbol": "CDC",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "August 2, 1983"
+ },
+ {
+  "CompanyName": "Cebu Air, Inc.",
+  "Symbol": "CEB",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "October 26, 2010"
+ },
+ {
+  "CompanyName": "Crown Equities, Inc.",
+  "Symbol": "CEI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "August 16, 1994"
+ },
+ {
+  "CompanyName": "Centro Escolar University",
+  "Symbol": "CEU",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Education",
+  "ListingDate": "November 10, 1986"
+ },
+ {
+  "CompanyName": "Cemex Holdings Philippines, Inc.",
+  "Symbol": "CHP",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "July 18, 2016"
+ },
+ {
+  "CompanyName": "Concepcion Industrial Corporation",
+  "Symbol": "CIC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electrical Components & Equipment",
+  "ListingDate": "November 27, 2013"
+ },
+ {
+  "CompanyName": "Cebu Landmasters, Inc.",
+  "Symbol": "CLI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 2, 2017"
+ },
+ {
+  "CompanyName": "Century Pacific Food, Inc.",
+  "Symbol": "CNPF",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "May 6, 2014"
+ },
+ {
+  "CompanyName": "Converge Information and Communications Technology Solutions, Inc.",
+  "Symbol": "CNVRG",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "October 26, 2020"
+ },
+ {
+  "CompanyName": "Coal Asia Holdings Incorporated",
+  "Symbol": "COAL",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "October 23, 2012"
+ },
+ {
+  "CompanyName": "COL Financial Group, Inc.",
+  "Symbol": "COL",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "July 12, 2006"
+ },
+ {
+  "CompanyName": "Cosco Capital, Inc.",
+  "Symbol": "COSCO",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "September 26, 1988"
+ },
+ {
+  "CompanyName": "Century Properties Group, Inc.",
+  "Symbol": "CPG",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 16, 1976"
+ },
+ {
+  "CompanyName": "Century Peak Holdings Corporation",
+  "Symbol": "CPM",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "October 6, 2009"
+ },
+ {
+  "CompanyName": "Citicore Renewable Energy Corporation",
+  "Symbol": "CREC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power and Water",
+  "ListingDate": "June 7, 2024"
+ },
+ {
+  "CompanyName": "Citicore Energy REIT Corp.",
+  "Symbol": "CREIT",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "February 22, 2022"
+ },
+ {
+  "CompanyName": "Crown Asia Chemicals Corporation",
+  "Symbol": "CROWN",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Chemicals",
+  "ListingDate": "April 27, 2015"
+ },
+ {
+  "CompanyName": "Citystate Savings Bank, Inc.",
+  "Symbol": "CSB",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "January 3, 2002"
+ },
+ {
+  "CompanyName": "CTS Global Equity Group, Inc.",
+  "Symbol": "CTS",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "April 13, 2022"
+ },
+ {
+  "CompanyName": "Cyber Bay Corporation",
+  "Symbol": "CYBR",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "March 19, 1991"
+ },
+ {
+  "CompanyName": "DoubleDragon Corporation",
+  "Symbol": "DD",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "April 7, 2014"
+ },
+ {
+  "CompanyName": "DDMP REIT, Inc.",
+  "Symbol": "DDMPR",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "March 24, 2021"
+ },
+ {
+  "CompanyName": "Del Monte Pacific Limited",
+  "Symbol": "DELM",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "June 10, 2013"
+ },
+ {
+  "CompanyName": "DFNN, Inc.",
+  "Symbol": "DFNN",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "October 30, 2000"
+ },
+ {
+  "CompanyName": "Dominion Holdings, Inc.",
+  "Symbol": "DHI",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "January 6, 1997"
+ },
+ {
+  "CompanyName": "DITO CME Holdings Corp.",
+  "Symbol": "DITO",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "October 1, 1975"
+ },
+ {
+  "CompanyName": "Dizon Copper-Silver Mines, Inc.",
+  "Symbol": "DIZ",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "February 10, 1988"
+ },
+ {
+  "CompanyName": "DMCI Holdings, Inc.",
+  "Symbol": "DMC",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "December 18, 1995"
+ },
+ {
+  "CompanyName": "DEL MONTE PHILIPPINES, INC.",
+  "Symbol": "DMPI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "June 10, 2013"
+ },
+ {
+  "CompanyName": "D.M. Wenceslao & Associates, Incorporated",
+  "Symbol": "DMW",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 29, 2018"
+ },
+ {
+  "CompanyName": "Philab Holdings Corp.",
+  "Symbol": "DNA",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "September 3, 2009"
+ },
+ {
+  "CompanyName": "D&L Industries, Inc.",
+  "Symbol": "DNL",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "December 12, 2012"
+ },
+ {
+  "CompanyName": "Discovery World Corporation",
+  "Symbol": "DWC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Hotel & Leisure",
+  "ListingDate": "November 21, 2013"
+ },
+ {
+  "CompanyName": "EasyCall Communications Philippines, Inc.",
+  "Symbol": "ECP",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "May 5, 1992"
+ },
+ {
+  "CompanyName": "East Coast Vulcan Mining Corporation",
+  "Symbol": "ECVC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "August 31, 1970"
+ },
+ {
+  "CompanyName": "EEI Corporation",
+  "Symbol": "EEI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "July 21, 1975"
+ },
+ {
+  "CompanyName": "IP E-Game Ventures, Inc.",
+  "Symbol": "EG",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "February 17, 2010"
+ },
+ {
+  "CompanyName": "Empire East Land Holdings, Inc.",
+  "Symbol": "ELI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 28, 1996"
+ },
+ {
+  "CompanyName": "Emperador Inc.",
+  "Symbol": "EMI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "December 19, 2011"
+ },
+ {
+  "CompanyName": "ENEX Energy Corp.",
+  "Symbol": "ENEX",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Oil",
+  "ListingDate": "August 28, 2014"
+ },
+ {
+  "CompanyName": "Euro-Med Laboratories Phil., Inc.",
+  "Symbol": "EURO",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Chemicals",
+  "ListingDate": "July 2, 1998"
+ },
+ {
+  "CompanyName": "Ever-Gotesco Resources and Holdings, Inc.",
+  "Symbol": "EVER",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "September 16, 1996"
+ },
+ {
+  "CompanyName": "East West Banking Corporation",
+  "Symbol": "EW",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "May 7, 2012"
+ },
+ {
+  "CompanyName": "First Abacus Financial Holdings Corporation",
+  "Symbol": "FAF",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "November 17, 1994"
+ },
+ {
+  "CompanyName": "San Miguel Food and Beverage, Inc.",
+  "Symbol": "FB",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "October 28, 1971"
+ },
+ {
+  "CompanyName": "Figaro Coffee Group, Inc.",
+  "Symbol": "FCG",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "January 24, 2022"
+ },
+ {
+  "CompanyName": "Filinvest Development Corporation",
+  "Symbol": "FDC",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "December 22, 1982"
+ },
+ {
+  "CompanyName": "Ferronoux Holdings, Inc.",
+  "Symbol": "FERRO",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "August 13, 2013"
+ },
+ {
+  "CompanyName": "Far Eastern University, Incorporated",
+  "Symbol": "FEU",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Education",
+  "ListingDate": "July 11, 1986"
+ },
+ {
+  "CompanyName": "Filipino Fund, Inc.",
+  "Symbol": "FFI",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "September 27, 1995"
+ },
+ {
+  "CompanyName": "First Gen Corporation",
+  "Symbol": "FGEN",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "February 10, 2006"
+ },
+ {
+  "CompanyName": "Filinvest REIT Corp.",
+  "Symbol": "FILRT",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "August 12, 2021"
+ },
+ {
+  "CompanyName": "F & J Prince Holdings Corporation",
+  "Symbol": "FJP",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "December 8, 1982"
+ },
+ {
+  "CompanyName": "F&J Prince Holdings Corporation ``B``",
+  "Symbol": "FJPB",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "December 8, 1982"
+ },
+ {
+  "CompanyName": "Filinvest Land, Inc.",
+  "Symbol": "FLI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "October 25, 1993"
+ },
+ {
+  "CompanyName": "First Metro Philippine Equity Exchange Traded Fund, Inc.",
+  "Symbol": "FMETF",
+  "SecurityType": "ETF",
+  "Sector": "ETF",
+  "Subsector": "ETF-Equity",
+  "ListingDate": "December 2, 2013"
+ },
+ {
+  "CompanyName": "Global Ferronickel Holdings, Inc.",
+  "Symbol": "FNI",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "December 14, 1994"
+ },
+ {
+  "CompanyName": "Alliance Select Foods International, Inc.",
+  "Symbol": "FOOD",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "November 8, 2006"
+ },
+ {
+  "CompanyName": "First Philippine Holdings Corporation",
+  "Symbol": "FPH",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "May 23, 1963"
+ },
+ {
+  "CompanyName": "Forum Pacific, Inc.",
+  "Symbol": "FPI",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "December 19, 1994"
+ },
+ {
+  "CompanyName": "Fruitas Holdings, Inc.",
+  "Symbol": "FRUIT",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "November 29, 2019"
+ },
+ {
+  "CompanyName": "Filsyn Corporation",
+  "Symbol": "FYN",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Other Industrials",
+  "ListingDate": "June 3, 1975"
+ },
+ {
+  "CompanyName": "GEOGRACE Resources Philippines, Inc.",
+  "Symbol": "GEO",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "February 7, 1972"
+ },
+ {
+  "CompanyName": "Global-Estate Resorts, Inc.",
+  "Symbol": "GERI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "November 23, 1995"
+ },
+ {
+  "CompanyName": "Globe Telecom, Inc.",
+  "Symbol": "GLO",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Telecommunications",
+  "ListingDate": "August 11, 1975"
+ },
+ {
+  "CompanyName": "GMA Network, Inc.",
+  "Symbol": "GMA7",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Media",
+  "ListingDate": "July 30, 2007"
+ },
+ {
+  "CompanyName": "GMA Holdings, Inc.",
+  "Symbol": "GMAP",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Media",
+  "ListingDate": "July 30, 2007"
+ },
+ {
+  "CompanyName": "Grand Plaza Hotel Corporation",
+  "Symbol": "GPH",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Hotel & Leisure",
+  "ListingDate": "December 10, 1992"
+ },
+ {
+  "CompanyName": "Greenergy Holdings Incorporated",
+  "Symbol": "GREEN",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electrical Components & Equipment",
+  "ListingDate": "September 26, 1996"
+ },
+ {
+  "CompanyName": "Ginebra San Miguel, Inc.",
+  "Symbol": "GSMI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "April 18, 1995"
+ },
+ {
+  "CompanyName": "GT Capital Holdings, Inc.",
+  "Symbol": "GTCAP",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "April 20, 2012"
+ },
+ {
+  "CompanyName": "House of Investments, Inc.",
+  "Symbol": "HI",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "July 2, 1962"
+ },
+ {
+  "CompanyName": "AllHome Corp.",
+  "Symbol": "HOME",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "October 10, 2019"
+ },
+ {
+  "CompanyName": "8990 Holdings, Inc.",
+  "Symbol": "HOUSE",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "December 9, 2010"
+ },
+ {
+  "CompanyName": "Haus Talk, Inc.",
+  "Symbol": "HTI",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "January 17, 2022"
+ },
+ {
+  "CompanyName": "Golden MV Holdings, Inc.",
+  "Symbol": "HVN",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 29, 2016"
+ },
+ {
+  "CompanyName": "I-Remit, Inc.",
+  "Symbol": "I",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "October 17, 2007"
+ },
+ {
+  "CompanyName": "International Container Terminal Services, Inc.",
+  "Symbol": "ICT",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "March 23, 1992"
+ },
+ {
+  "CompanyName": "Italpinas Development Corporation",
+  "Symbol": "IDC",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "December 7, 2015"
+ },
+ {
+  "CompanyName": "Integrated Micro-Electronics, Inc.",
+  "Symbol": "IMI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electrical Components & Equipment",
+  "ListingDate": "January 21, 2010"
+ },
+ {
+  "CompanyName": "Imperial Resources, Inc.",
+  "Symbol": "IMP",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "August 31, 1970"
+ },
+ {
+  "CompanyName": "Philippine Infradev Holdings, Inc.",
+  "Symbol": "INFRA",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "February 27, 1978"
+ },
+ {
+  "CompanyName": "Ionics, Inc.",
+  "Symbol": "ION",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electrical Components & Equipment",
+  "ListingDate": "July 18, 1995"
+ },
+ {
+  "CompanyName": "IPM Holdings, Inc.",
+  "Symbol": "IPM",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "June 17, 1998"
+ },
+ {
+  "CompanyName": "iPeople, inc.",
+  "Symbol": "IPO",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Education",
+  "ListingDate": "January 24, 1990"
+ },
+ {
+  "CompanyName": "Island Information & Technology, Inc.",
+  "Symbol": "IS",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "December 6, 1988"
+ },
+ {
+  "CompanyName": "Jackstones, Inc.",
+  "Symbol": "JAS",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "October 27, 1967"
+ },
+ {
+  "CompanyName": "Jollibee Foods Corporation",
+  "Symbol": "JFC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "July 14, 1993"
+ },
+ {
+  "CompanyName": "JG Summit Holdings, Inc.",
+  "Symbol": "JGS",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "August 9, 1993"
+ },
+ {
+  "CompanyName": "Jolliville Holdings Corporation",
+  "Symbol": "JOH",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "June 17, 2002"
+ },
+ {
+  "CompanyName": "The Keepers Holdings, Inc.",
+  "Symbol": "KEEPR",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "September 3, 1991"
+ },
+ {
+  "CompanyName": "Keppel Philippines Properties, Inc.",
+  "Symbol": "KEP",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "September 11, 1989"
+ },
+ {
+  "CompanyName": "Keppel Philippines Holdings, Inc.",
+  "Symbol": "KPH",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "August 26, 1987"
+ },
+ {
+  "CompanyName": "Keppel Philippines Holdings, Inc. ``B``",
+  "Symbol": "KPHB",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "August 26, 1987"
+ },
+ {
+  "CompanyName": "Kepwealth Property Phils., Inc.",
+  "Symbol": "KPPI",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "August 19, 2019"
+ },
+ {
+  "CompanyName": "City & Land Developers, Incorporated",
+  "Symbol": "LAND",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "December 13, 1999"
+ },
+ {
+  "CompanyName": "LBC Express Holdings, Inc.",
+  "Symbol": "LBC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "December 21, 2001"
+ },
+ {
+  "CompanyName": "Lepanto Consolidated Mining Company",
+  "Symbol": "LC",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "April 30, 1947"
+ },
+ {
+  "CompanyName": "Lepanto Consolidated Mining Company ``B``",
+  "Symbol": "LCB",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "April 30, 1947"
+ },
+ {
+  "CompanyName": "Liberty Flour Mills, Inc.",
+  "Symbol": "LFM",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "April 25, 1985"
+ },
+ {
+  "CompanyName": "LMG Corp.",
+  "Symbol": "LMG",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Chemicals",
+  "ListingDate": "January 7, 1986"
+ },
+ {
+  "CompanyName": "Lodestar Investment Holdings Corporation",
+  "Symbol": "LODE",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "May 26, 1989"
+ },
+ {
+  "CompanyName": "Pacific Online Systems Corporation",
+  "Symbol": "LOTO",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "April 12, 2007"
+ },
+ {
+  "CompanyName": "LFM Properties Corporation",
+  "Symbol": "LPC",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "November 9, 2022"
+ },
+ {
+  "CompanyName": "Lopez Holdings Corporation",
+  "Symbol": "LPZ",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "November 25, 1993"
+ },
+ {
+  "CompanyName": "Lorenzo Shipping Corporation",
+  "Symbol": "LSC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "July 22, 1996"
+ },
+ {
+  "CompanyName": "LT Group, Inc.",
+  "Symbol": "LTG",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "November 7, 1947"
+ },
+ {
+  "CompanyName": "Manila Mining Corporation",
+  "Symbol": "MA",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "December 17, 1959"
+ },
+ {
+  "CompanyName": "Manila Mining Corporation ``B``",
+  "Symbol": "MAB",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "December 17, 1959"
+ },
+ {
+  "CompanyName": "MacroAsia Corporation",
+  "Symbol": "MAC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "May 21, 1970"
+ },
+ {
+  "CompanyName": "Macay Holdings, Inc.",
+  "Symbol": "MACAY",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "January 28, 1987"
+ },
+ {
+  "CompanyName": "Metro Alliance Holdings & Equities Corp.",
+  "Symbol": "MAH",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "December 8, 1947"
+ },
+ {
+  "CompanyName": "Metro Alliance Holdings & Equities Corp. ``B``",
+  "Symbol": "MAHB",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "December 8, 1947"
+ },
+ {
+  "CompanyName": "Marcventures Holdings, Inc.",
+  "Symbol": "MARC",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "January 10, 1958"
+ },
+ {
+  "CompanyName": "Max's Group, Inc.",
+  "Symbol": "MAXS",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "December 15, 2000"
+ },
+ {
+  "CompanyName": "Manila Bulletin Publishing Corporation",
+  "Symbol": "MB",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Media",
+  "ListingDate": "April 18, 1990"
+ },
+ {
+  "CompanyName": "Manila Broadcasting Company",
+  "Symbol": "MBC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Media",
+  "ListingDate": "October 8, 1949"
+ },
+ {
+  "CompanyName": "Metropolitan Bank & Trust Company",
+  "Symbol": "MBT",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "February 26, 1981"
+ },
+ {
+  "CompanyName": "MEDCO Holdings, Inc.",
+  "Symbol": "MED",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "November 18, 1975"
+ },
+ {
+  "CompanyName": "Medilines Distributors Incorporated",
+  "Symbol": "MEDIC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "December 7, 2021"
+ },
+ {
+  "CompanyName": "Megaworld Corporation",
+  "Symbol": "MEG",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 15, 1994"
+ },
+ {
+  "CompanyName": "Manila Electric Company",
+  "Symbol": "MER",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "January 8, 1992"
+ },
+ {
+  "CompanyName": "Manulife Financial Corporation",
+  "Symbol": "MFC",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "September 27, 1999"
+ },
+ {
+  "CompanyName": "Makati Finance Corporation",
+  "Symbol": "MFIN",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "January 6, 2003"
+ },
+ {
+  "CompanyName": "Millennium Global Holdings, Inc.",
+  "Symbol": "MG",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "March 1, 1976"
+ },
+ {
+  "CompanyName": "Metro Global Holdings Corporation",
+  "Symbol": "MGH",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "May 4, 1964"
+ },
+ {
+  "CompanyName": "Mabuhay Holdings Corporation",
+  "Symbol": "MHC",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "October 22, 1990"
+ },
+ {
+  "CompanyName": "Manila Jockey Club, Inc.",
+  "Symbol": "MJC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "October 11, 1963"
+ },
+ {
+  "CompanyName": "MJC Investments Corporation",
+  "Symbol": "MJIC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "November 11, 1955"
+ },
+ {
+  "CompanyName": "MerryMart Consumer Corp.",
+  "Symbol": "MM",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "June 15, 2020"
+ },
+ {
+  "CompanyName": "Monde Nissin Corporation",
+  "Symbol": "MONDE",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "June 1, 2021"
+ },
+ {
+  "CompanyName": "MRC Allied, Inc.",
+  "Symbol": "MRC",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "May 18, 1995"
+ },
+ {
+  "CompanyName": "MREIT, Inc.",
+  "Symbol": "MREIT",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "October 1, 2021"
+ },
+ {
+  "CompanyName": "Metro Retail Stores Group, Inc.",
+  "Symbol": "MRSGI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "November 24, 2015"
+ },
+ {
+  "CompanyName": "Mabuhay Vinyl Corporation",
+  "Symbol": "MVC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Chemicals",
+  "ListingDate": "February 5, 1997"
+ },
+ {
+  "CompanyName": "Manila Water Company, Inc.",
+  "Symbol": "MWC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "March 18, 2005"
+ },
+ {
+  "CompanyName": "Megawide Construction Corporation",
+  "Symbol": "MWIDE",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "February 18, 2011"
+ },
+ {
+  "CompanyName": "NiHAO Mineral Resources International, Inc.",
+  "Symbol": "NI",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "October 3, 1990"
+ },
+ {
+  "CompanyName": "Nickel Asia Corporation",
+  "Symbol": "NIKL",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "November 22, 2010"
+ },
+ {
+  "CompanyName": "Now Corporation",
+  "Symbol": "NOW",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "July 23, 2003"
+ },
+ {
+  "CompanyName": "National Reinsurance Corporation of the Philippines",
+  "Symbol": "NRCP",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "April 27, 2007"
+ },
+ {
+  "CompanyName": "NextGenesis Corporation",
+  "Symbol": "NXGEN",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "October 8, 1996"
+ },
+ {
+  "CompanyName": "OceanaGold (Philippines), Inc.",
+  "Symbol": "OGP",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining & Oil",
+  "Subsector": "Mining",
+  "ListingDate": "May 13, 2024"
+ },
+ {
+  "CompanyName": "Omico Corporation",
+  "Symbol": "OM",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "May 2, 1969"
+ },
+ {
+  "CompanyName": "Oriental Petroleum and Minerals Corporation",
+  "Symbol": "OPM",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Oil",
+  "ListingDate": "October 14, 1970"
+ },
+ {
+  "CompanyName": "Oriental Petroleum and Minerals Corporation ``B``",
+  "Symbol": "OPMB",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Oil",
+  "ListingDate": "October 14, 1970"
+ },
+ {
+  "CompanyName": "Oriental Peninsula Resources Group, Inc.",
+  "Symbol": "ORE",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "December 19, 2007"
+ },
+ {
+  "CompanyName": "The Philodrill Corporation",
+  "Symbol": "OV",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Oil",
+  "ListingDate": "September 25, 1969"
+ },
+ {
+  "CompanyName": "Pacifica Holdings, Inc.",
+  "Symbol": "PA",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "November 23, 1959"
+ },
+ {
+  "CompanyName": "PAL Holdings, Inc.",
+  "Symbol": "PAL",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "January 4, 1954"
+ },
+ {
+  "CompanyName": "Paxys, Inc.",
+  "Symbol": "PAX",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "October 5, 1972"
+ },
+ {
+  "CompanyName": "Philippine Business Bank",
+  "Symbol": "PBB",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "February 19, 2013"
+ },
+ {
+  "CompanyName": "Philippine Bank of Communications",
+  "Symbol": "PBC",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "May 12, 1988"
+ },
+ {
+  "CompanyName": "Petron Corporation",
+  "Symbol": "PCOR",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "September 7, 1994"
+ },
+ {
+  "CompanyName": "PetroEnergy Resources Corporation",
+  "Symbol": "PERC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "August 11, 2004"
+ },
+ {
+  "CompanyName": "Puregold Price Club, Inc.",
+  "Symbol": "PGOLD",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "October 5, 2011"
+ },
+ {
+  "CompanyName": "Premiere Horizon Alliance Corporation",
+  "Symbol": "PHA",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "May 5, 1997"
+ },
+ {
+  "CompanyName": "Philcomsat Holdings Corporation",
+  "Symbol": "PHC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "November 28, 1958"
+ },
+ {
+  "CompanyName": "Philippine Estates Corporation",
+  "Symbol": "PHES",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "January 21, 1985"
+ },
+ {
+  "CompanyName": "Phinma Corporation",
+  "Symbol": "PHN",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "August 18, 1958"
+ },
+ {
+  "CompanyName": "PH Resorts Group Holdings, Inc.",
+  "Symbol": "PHR",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "November 24, 2011"
+ },
+ {
+  "CompanyName": "Shakey's Pizza Asia Ventures, Inc.",
+  "Symbol": "PIZZA",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "December 15, 2016"
+ },
+ {
+  "CompanyName": "DigiPlus Interactive Corp.",
+  "Symbol": "PLUS",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "April 17, 1958"
+ },
+ {
+  "CompanyName": "Panasonic Manufacturing Philippines Corporation",
+  "Symbol": "PMPC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electrical Components & Equipment",
+  "ListingDate": "January 21, 1983"
+ },
+ {
+  "CompanyName": "Philippine National Bank",
+  "Symbol": "PNB",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "June 21, 1989"
+ },
+ {
+  "CompanyName": "Philippine National Construction Corporation",
+  "Symbol": "PNC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "March 13, 1974"
+ },
+ {
+  "CompanyName": "Phoenix Petroleum Philippines, Inc.",
+  "Symbol": "PNX",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "July 11, 2007"
+ },
+ {
+  "CompanyName": "Globalport 900, Inc.",
+  "Symbol": "PORT",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "June 9, 1948"
+ },
+ {
+  "CompanyName": "Pryce Corporation",
+  "Symbol": "PPC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Chemicals",
+  "ListingDate": "October 29, 1991"
+ },
+ {
+  "CompanyName": "Philippine Racing Club, Inc.",
+  "Symbol": "PRC",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "March 2, 1952"
+ },
+ {
+  "CompanyName": "Premiere Island Power REIT Corporation",
+  "Symbol": "PREIT",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "December 15, 2022"
+ },
+ {
+  "CompanyName": "Prime Media Holdings, Inc.",
+  "Symbol": "PRIM",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "July 29, 1964"
+ },
+ {
+  "CompanyName": "Primex Corporation",
+  "Symbol": "PRMX",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "August 10, 2001"
+ },
+ {
+  "CompanyName": "Philippine Savings Bank",
+  "Symbol": "PSB",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "October 10, 1994"
+ },
+ {
+  "CompanyName": "The Philippine Stock Exchange, Inc.",
+  "Symbol": "PSE",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "December 15, 2003"
+ },
+ {
+  "CompanyName": "Philippine Trust Company",
+  "Symbol": "PTC",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "February 17, 1988"
+ },
+ {
+  "CompanyName": "PT&T Corp.",
+  "Symbol": "PTT",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Telecommunications",
+  "ListingDate": "January 10, 1990"
+ },
+ {
+  "CompanyName": "Philex Mining Corporation",
+  "Symbol": "PX",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "November 23, 1956"
+ },
+ {
+  "CompanyName": "PXP Energy Corporation",
+  "Symbol": "PXP",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Oil",
+  "ListingDate": "September 12, 2011"
+ },
+ {
+  "CompanyName": "Rizal Commercial Banking Corporation",
+  "Symbol": "RCB",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "November 6, 1986"
+ },
+ {
+  "CompanyName": "Roxas and Company, Inc.",
+  "Symbol": "RCI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "November 29, 1948"
+ },
+ {
+  "CompanyName": "RL Commercial REIT, Inc.",
+  "Symbol": "RCR",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "September 14, 2021"
+ },
+ {
+  "CompanyName": "Repower Energy Development Corporation",
+  "Symbol": "REDC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "July 24, 2023"
+ },
+ {
+  "CompanyName": "Republic Glass Holdings Corporation",
+  "Symbol": "REG",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "July 17, 1959"
+ },
+ {
+  "CompanyName": "RFM Corporation",
+  "Symbol": "RFM",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "February 21, 1966"
+ },
+ {
+  "CompanyName": "Robinsons Land Corporation",
+  "Symbol": "RLC",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "October 16, 1989"
+ },
+ {
+  "CompanyName": "Philippine Realty and Holdings Corporation",
+  "Symbol": "RLT",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "September 7, 1987"
+ },
+ {
+  "CompanyName": "Rockwell Land Corporation",
+  "Symbol": "ROCK",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "May 11, 2012"
+ },
+ {
+  "CompanyName": "Roxas Holdings, Inc.",
+  "Symbol": "ROX",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "August 8, 1996"
+ },
+ {
+  "CompanyName": "Robinsons Retail Holdings, Inc.",
+  "Symbol": "RRHI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "November 11, 2013"
+ },
+ {
+  "CompanyName": "SBS Philippines Corporation",
+  "Symbol": "SBS",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Other Services",
+  "ListingDate": "August 10, 2015"
+ },
+ {
+  "CompanyName": "Semirara Mining and Power Corporation",
+  "Symbol": "SCC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power and Water",
+  "ListingDate": "November 28, 1983"
+ },
+ {
+  "CompanyName": "Security Bank Corporation",
+  "Symbol": "SECB",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "June 8, 1995"
+ },
+ {
+  "CompanyName": "Philippine Seven Corporation",
+  "Symbol": "SEVN",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "February 4, 1998"
+ },
+ {
+  "CompanyName": "Swift Foods, Inc.",
+  "Symbol": "SFI",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "November 15, 1994"
+ },
+ {
+  "CompanyName": "Solid Group, Inc.",
+  "Symbol": "SGI",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "April 26, 1948"
+ },
+ {
+  "CompanyName": "Synergy Grid & Development Phils., Inc.",
+  "Symbol": "SGP",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "May 10, 1972"
+ },
+ {
+  "CompanyName": "Shell Pilipinas Corporation",
+  "Symbol": "SHLPH",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "November 3, 2016"
+ },
+ {
+  "CompanyName": "Shang Properties, Inc.",
+  "Symbol": "SHNG",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 13, 1991"
+ },
+ {
+  "CompanyName": "Sun Life Financial Inc.",
+  "Symbol": "SLF",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "March 24, 2000"
+ },
+ {
+  "CompanyName": "Sta. Lucia Land, Inc.",
+  "Symbol": "SLI",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "September 14, 1987"
+ },
+ {
+  "CompanyName": "SM Investments Corporation",
+  "Symbol": "SM",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "March 22, 2005"
+ },
+ {
+  "CompanyName": "San Miguel Corporation",
+  "Symbol": "SMC",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "November 5, 1948"
+ },
+ {
+  "CompanyName": "SM Prime Holdings, Inc.",
+  "Symbol": "SMPH",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "July 5, 1994"
+ },
+ {
+  "CompanyName": "SOCResources, Inc.",
+  "Symbol": "SOC",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "January 5, 1994"
+ },
+ {
+  "CompanyName": "SPC Power Corporation",
+  "Symbol": "SPC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "April 2, 2002"
+ },
+ {
+  "CompanyName": "Seafront Resources Corporation",
+  "Symbol": "SPM",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "May 7, 1974"
+ },
+ {
+  "CompanyName": "SP New Energy Corporation",
+  "Symbol": "SPNEC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "December 17, 2021"
+ },
+ {
+  "CompanyName": "Supercity Realty Development Corporation",
+  "Symbol": "SRDC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "December 19, 2003"
+ },
+ {
+  "CompanyName": "SSI Group, Inc.",
+  "Symbol": "SSI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "November 7, 2014"
+ },
+ {
+  "CompanyName": "STI Education Systems Holdings, Inc.",
+  "Symbol": "STI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Education",
+  "ListingDate": "October 12, 1976"
+ },
+ {
+  "CompanyName": "Steniel Manufacturing Corporation",
+  "Symbol": "STN",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Other Industrials",
+  "ListingDate": "November 22, 1993"
+ },
+ {
+  "CompanyName": "Vistamalls, Inc.",
+  "Symbol": "STR",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "November 17, 1970"
+ },
+ {
+  "CompanyName": "Suntrust Resort Holdings, Inc.",
+  "Symbol": "SUN",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "February 11, 1959"
+ },
+ {
+  "CompanyName": "TKC Metals Corporation",
+  "Symbol": "T",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Construction, Infra. & Allied Services",
+  "ListingDate": "July 20, 2001"
+ },
+ {
+  "CompanyName": "Transpacific Broadband Group Int`l. Inc.",
+  "Symbol": "TBGI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Information Technology",
+  "ListingDate": "December 12, 2003"
+ },
+ {
+  "CompanyName": "Cirtek Holdings Philippines Corporation",
+  "Symbol": "TECH",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electrical Components & Equipment",
+  "ListingDate": "November 18, 2011"
+ },
+ {
+  "CompanyName": "PLDT Inc.",
+  "Symbol": "TEL",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Telecommunications",
+  "ListingDate": "September 17, 1953"
+ },
+ {
+  "CompanyName": "PTFC Redevelopment Corporation",
+  "Symbol": "TFC",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "December 19, 1955"
+ },
+ {
+  "CompanyName": "Top Frontier Investment Holdings, Inc.",
+  "Symbol": "TFHI",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "January 13, 2014"
+ },
+ {
+  "CompanyName": "Harbor Star Shipping Services, Inc.",
+  "Symbol": "TUGS",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Transportation Services",
+  "ListingDate": "October 30, 2013"
+ },
+ {
+  "CompanyName": "Union Bank of the Philippines",
+  "Symbol": "UBP",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Banks",
+  "ListingDate": "June 29, 1992"
+ },
+ {
+  "CompanyName": "Uniholdings Inc.",
+  "Symbol": "UNH",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Chemicals",
+  "ListingDate": "November 21, 1985"
+ },
+ {
+  "CompanyName": "United Paragon Mining Corporation",
+  "Symbol": "UPM",
+  "SecurityType": "Common Stock",
+  "Sector": "Mining and Oil",
+  "Subsector": "Mining",
+  "ListingDate": "August 31, 1972"
+ },
+ {
+  "CompanyName": "Upson International Corp.",
+  "Symbol": "UPSON",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "April 3, 2023"
+ },
+ {
+  "CompanyName": "Universal Robina Corporation",
+  "Symbol": "URC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "March 25, 1994"
+ },
+ {
+  "CompanyName": "Vantage Equities, Inc.",
+  "Symbol": "V",
+  "SecurityType": "Common Stock",
+  "Sector": "Financials",
+  "Subsector": "Other Financial Institutions",
+  "ListingDate": "March 30, 1993"
+ },
+ {
+  "CompanyName": "Vitarich Corporation",
+  "Symbol": "VITA",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "February 8, 1995"
+ },
+ {
+  "CompanyName": "Vista Land & Lifescapes, Inc.",
+  "Symbol": "VLL",
+  "SecurityType": "Common Stock",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 25, 2007"
+ },
+ {
+  "CompanyName": "Victorias Milling Company, Inc.",
+  "Symbol": "VMC",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Food, Beverage & Tobacco",
+  "ListingDate": "November 15, 1993"
+ },
+ {
+  "CompanyName": "VistaREIT, Inc.",
+  "Symbol": "VREIT",
+  "SecurityType": "REIT",
+  "Sector": "Property",
+  "Subsector": "Property",
+  "ListingDate": "June 15, 2022"
+ },
+ {
+  "CompanyName": "Vivant Corporation",
+  "Symbol": "VVT",
+  "SecurityType": "Common Stock",
+  "Sector": "Industrial",
+  "Subsector": "Electricity, Energy, Power & Water",
+  "ListingDate": "June 23, 1994"
+ },
+ {
+  "CompanyName": "PhilWeb Corporation",
+  "Symbol": "WEB",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Casinos & Gaming",
+  "ListingDate": "December 8, 1969"
+ },
+ {
+  "CompanyName": "Wellex Industries, Incorporated",
+  "Symbol": "WIN",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "January 9, 1958"
+ },
+ {
+  "CompanyName": "Wilcon Depot, Inc.",
+  "Symbol": "WLCON",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Retail",
+  "ListingDate": "March 31, 2017"
+ },
+ {
+  "CompanyName": "Waterfront Philippines, Incorporated",
+  "Symbol": "WPI",
+  "SecurityType": "Common Stock",
+  "Sector": "Services",
+  "Subsector": "Hotel & Leisure",
+  "ListingDate": "March 17, 1995"
+ },
+ {
+  "CompanyName": "Xurpas Inc.",
+  "Symbol": "X",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "December 2, 2014"
+ },
+ {
+  "CompanyName": "NexGen Energy Corp.",
+  "Symbol": "XG",
+  "SecurityType": "Common Stock",
+  "Sector": "Small, Medium & Emerging Board",
+  "Subsector": "Small, Medium & Emerging Board",
+  "ListingDate": "July 16, 2024"
+ },
+ {
+  "CompanyName": "Zeus Holdings, Inc.",
+  "Symbol": "ZHI",
+  "SecurityType": "Common Stock",
+  "Sector": "Holding Firms",
+  "Subsector": "Holding Firms",
+  "ListingDate": "July 15, 1991"
+ }
+}
